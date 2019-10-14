@@ -1,0 +1,19 @@
+location,vehicle_type,Average Occupancy (in percent),Count
+Barcelona,bicycle,25.0,2
+Barcelona,car,50.0,4
+Barcelona,motorbike,25.0,1
+Barcelona,other,25.0,3
+Barcelona,taxi,25.0,3
+Barcelona,truck,25.0,3
+Lisbon,car,70.0,5
+London,bus,75.0,4
+London,taxi,75.0,1
+London,truck,68.75,4
+MexicoCity,car,75.0,5
+NO LOCATION SPECIFIED,bus,25.0,1
+NO LOCATION SPECIFIED,car,25.0,3
+NewYork,car,25.0,9
+Paris,bicycle,50.0,2
+Paris,bus,50.0,3
+Paris,car,50.0,5
+Paris,taxi,50.0,3
